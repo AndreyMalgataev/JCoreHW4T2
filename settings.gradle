@@ -1,0 +1,5 @@
+rootProject.name = 'JCoreHW4T2'
+include 'db'
+include 'api'
+include 'service'
+
